@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     decidim-keycloak (0.1.0)
-      decidim-core (>= 0.25.0, < 0.28)
+      decidim-core (>= 0.25.0, <= 0.29)
       omniauth-keycloak (~> 1.5)
 
 GEM
