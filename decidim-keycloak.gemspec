@@ -20,7 +20,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency "decidim-core", Decidim::Keycloak::COMPAT_DECIDIM_VERSION
   s.add_dependency "omniauth-keycloak", "~> 1.5"
-  spec.add_dependency 'decidim', '~> 0.29.0'
+  s.add_dependency 'decidim', '~> 0.29.0'
 
 
 
